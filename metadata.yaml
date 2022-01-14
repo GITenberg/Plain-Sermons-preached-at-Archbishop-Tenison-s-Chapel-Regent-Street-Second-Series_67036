@@ -1,11 +1,16 @@
 _repo: Plain-Sermons-preached-at-Archbishop-Tenison-s-Chapel-Regent-Street-Second-Series_67036
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67036-h/images/cover.jpg
 creator:
   author:
     agent_name: Cowan, James Galloway
     gutenberg_agent_id: '53030'
     url: http://www.gutenberg.org/2009/agents/53030
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67036#Plain-Sermons-preached-at-Archbishop-Tenison-s-Chapel-Regent-Street-Second-Series
 gutenberg_issued: '2021-12-29'
 identifiers:
   gutenberg: '67036'
